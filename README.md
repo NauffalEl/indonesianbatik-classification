@@ -309,13 +309,6 @@ accuracy,0.946000,,,
 
 ### 4. Visualizations
 
-#### Confusion Matrix
-
-![Confusion Matrix](results/hybrid/confusion_matrix_test.png)
-
-- Normalized confusion matrix for all classes
-- Darker color = higher value
-
 #### F1-Score per Class
 
 ![F1 per Class](results/hybrid/f1_per_class_test.png)
